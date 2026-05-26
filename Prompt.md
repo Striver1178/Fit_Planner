@@ -250,9 +250,9 @@ Technical Requirements:
 
 Technical RequirementsUse only:
 
-HTML5-for content and web app structure
-CSS3-for designing
-Vanilla JavaScript-for managing validation and function
+* HTML5-for content and web app structure
+* CSS3-for designing
+* Vanilla JavaScript-for managing validation and function
 
 Do not use:
 
