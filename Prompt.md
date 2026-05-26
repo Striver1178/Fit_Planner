@@ -250,25 +250,25 @@ Technical Requirements:
 
 The project should use only core frontend technologies to keep the application lightweight, beginner-friendly, and easy to understand while still delivering a professional UI experience.
 
-HTML5 — Used to create the structure and layout of the application, including sections, cards, forms, buttons, and navigation elements.
-CSS3 — Used for styling, responsive layouts, animations, transitions, spacing, dark theme design, hover effects, and overall visual presentation.
-Vanilla JavaScript — Used to add interactivity and dynamic functionality such as BMI calculations, animated counters, sidebar toggles, progress tracking, smooth scrolling, and water intake updates.
+* HTML5 — Used to create the structure and layout of the application, including sections, cards, forms, buttons, and navigation elements.
+* CSS3 — Used for styling, responsive layouts, animations, transitions, spacing, dark theme design, hover effects, and overall visual presentation.
+* Vanilla JavaScript — Used to add interactivity and dynamic functionality such as BMI calculations, animated counters, sidebar toggles, progress tracking, smooth scrolling, and water intake updates.
 
 The project should also make use of modern frontend design techniques for better responsiveness and user experience:
 
-Flexbox — Used for flexible alignment and arranging components efficiently across different screen sizes.
-CSS Grid — Used to create organized dashboard layouts and responsive card-based sections.
-CSS Variables — Used for maintaining consistent colors, spacing, and theme styling throughout the application.
-Media Queries — Used to make the UI fully responsive on mobile, tablet, and desktop devices.
-CSS Transitions & Animations — Used to create smooth hover effects, progress animations, and interactive user experiences.
+* Flexbox — Used for flexible alignment and arranging components efficiently across different screen sizes.
+* CSS Grid — Used to create organized dashboard layouts and responsive card-based sections.
+* CSS Variables — Used for maintaining consistent colors, spacing, and theme styling throughout the application.
+* Media Queries — Used to make the UI fully responsive on mobile, tablet, and desktop devices.
+* CSS Transitions & Animations — Used to create smooth hover effects, progress animations, and interactive user experiences.
 
 The following technologies and tools should not be used because the goal is to keep the project completely frontend-only and beginner-friendly without external dependencies:
 
-React / Next.js / Vue / Angular — Avoided to ensure the project remains simple and framework-free.
-Tailwind CSS / Bootstrap — Avoided to encourage custom UI design and manual CSS implementation.
-Backend Technologies — Not required because the project is fully client-side.
-APIs — Avoided to keep the application self-contained and independent of external services.
-Databases — Not needed since no user data storage or authentication is required.
+* React / Next.js / Vue / Angular — Avoided to ensure the project remains simple and framework-free.
+* Tailwind CSS / Bootstrap — Avoided to encourage custom UI design and manual CSS implementation.
+* Backend Technologies — Not required because the project is fully client-side.
+* APIs — Avoided to keep the application self-contained and independent of external services.
+* Databases — Not needed since no user data storage or authentication is required.
 
 # Folder Structure
 
