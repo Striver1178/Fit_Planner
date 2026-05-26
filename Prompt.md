@@ -256,11 +256,11 @@ The project should use only core frontend technologies to keep the application l
 
 The project should also make use of modern frontend design techniques for better responsiveness and user experience:
 
-* Flexbox — Used for flexible alignment and arranging components efficiently across different screen sizes.
-* CSS Grid — Used to create organized dashboard layouts and responsive card-based sections.
+* Flexbox — Used for flexible alignment.
+* CSS Grid — Used to create organized dashboards.
 * CSS Variables — Used for theme styling throughout the application.
-* Media Queries — Used to make the UI fully responsive on mobile, tablet, and desktop devices.
-* CSS Transitions & Animations — Used to create smooth hover effects, progress animations, and interactive user experiences.
+* Media Queries — Used to make the UI fully responsive.
+* CSS Transitions & Animations — Used to create smooth hover effects.
 
 The following technologies and tools should not be used because the goal is to keep the project completely frontend-only and beginner-friendly without external dependencies:
 
