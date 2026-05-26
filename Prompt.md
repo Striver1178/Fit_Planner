@@ -248,27 +248,22 @@ Implement proper frontend validation using JavaScript.
 
 Technical Requirements:
 
-The project should use only core frontend technologies to keep the application lightweight, beginner-friendly, and easy to understand while still delivering a professional UI experience.
+Technical RequirementsUse only:
 
-* HTML5 — Used to create the structure and layout of the application
-* CSS3 — Used for styling, responsive layout, animations, transitions.
-* Vanilla JavaScript —for managing validation,navigation and functions.
+HTML5-for content and web app structure
+CSS3-for designing
+Vanilla JavaScript-for managing validation and function
 
-The project should also make use of modern frontend design techniques for better responsiveness and user experience:
+Do not use:
 
-* Flexbox — Used for flexible alignment.
-* CSS Grid — Used to create organized dashboards.
-* CSS Variables — Used for theme styling throughout the application.
-* Media Queries — Used to make the UI fully responsive.
-* CSS Transitions & Animations — Used to create smooth hover effects.
-
-The following technologies and tools should not be used because the goal is to keep the project completely frontend-only and beginner-friendly without external dependencies:
-
-* React / Next.js / Vue / Angular — Avoided to ensure the project remains simple and framework-free.
-* Tailwind CSS / Bootstrap 
-* Backend Technologies — Not required 
-* APIs
-* Databases 
+React
+Next.js
+Tailwind CSS
+Bootstrap
+Angular
+Backend technologies
+APIs
+Databases
 
 # Folder Structure
 
