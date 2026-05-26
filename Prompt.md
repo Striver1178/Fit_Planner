@@ -256,14 +256,14 @@ Technical RequirementsUse only:
 
 Do not use:
 
-React
-Next.js
-Tailwind CSS
-Bootstrap
-Angular
-Backend technologies
-APIs
-Databases
+*React
+*Next.js
+*Tailwind CSS
+*Bootstrap
+*Angular
+*Backend technologies
+*APIs
+*Databases
 
 # Folder Structure
 
